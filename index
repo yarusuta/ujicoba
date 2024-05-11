@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Halaman Tanpa Gambar</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+  }
+  
+  .custom-font {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<h1>Judul Halaman Tanpa Gambar</h1>
+
+<p>
+  Ini adalah contoh paragraf dengan font Verdana, Geneva, sans-serif. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam viverra, turpis sed hendrerit ultricies, mauris felis cursus nunc.
+</p>
+
+<p class="custom-font">
+  Ini adalah contoh paragraf dengan font Courier New, Courier, monospace. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam viverra, turpis sed hendrerit ultricies, mauris felis cursus nunc.
+</p>
+
+<p>
+  Ini adalah paragraf lagi dengan font default. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam viverra, turpis sed hendrerit ultricies, mauris felis cursus nunc.
+</p>
+
+</body>
+</html>

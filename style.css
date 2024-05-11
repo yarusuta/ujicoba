@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333; /* Warna teks default */
+  }
+  
+  h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #0066cc; /* Warna teks untuk judul */
+  }
+  
+  p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    color: #666; /* Warna teks untuk paragraf */
+  }
+  
+  .custom-font {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: #990099; /* Warna teks untuk paragraf dengan kelas custom-font */
+  }
